@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import SimpleMap from './simple_map';
+
 class App extends Component {
   render() {
     return (
