@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 import SimpleMap from './simple_map';
+import FlatList from './flat_list';
 
 class App extends Component {
   render() {
