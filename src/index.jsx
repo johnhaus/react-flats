@@ -4,4 +4,4 @@ import ReactDOM from 'react-dom';
 import '../assets/stylesheets/application.scss';
 import App from './components/app';
 
-ReactDOM.render(<App />, document.querySelector('#roor'));
+ReactDOM.render(<App />, document.querySelector('#root'));
