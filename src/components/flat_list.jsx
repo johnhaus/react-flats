@@ -1,4 +1,5 @@
 import React from 'react';
+import Flat from './flat';
 
 const FlatList = (props) => {
   const renderList = () => {
